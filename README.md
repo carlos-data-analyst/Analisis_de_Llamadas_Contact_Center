@@ -6,6 +6,8 @@ Se parte de un set de datos real, sin embargo, este ha sido modificado con la fi
 
 Se adjunta un archivo .pdf dónde se documenta el proyecto, así como una versión recortada del reporte (ya que no es posible subir la versión completa por el peso permitido archivos en la presente plataforma).
 
+Las herramientas utilizadas para este proyecto fueron Microsoft Excel y python.
+
 Si deseas conocer más detalladamente el proyecto, adjunto una liga de yotube, aunque debo mencionar que es un poco larga (45 minutos), ya que intenté ser lo más claro posible.
 
 https://www.youtube.com/watch?v=yPd6fYOayFY&t=12s
