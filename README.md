@@ -1,6 +1,6 @@
 El presente proyecto trata acerca de un reporte que sirve para analizar el histórico de llamadas de un contact center. dicho proyecto fue elaborado como "Proyecto integrador" del curso de Análisis de datos impartido por la academía de cursos online Código Facilito.
 
-Es importante mencionar que, el hecho de que haya sido realizada como medio de gradiación de curso, no es un proyecto ficticio, ya que forma parte importante de mi experiencia real como analista de datos en TKM Customer Solutions.
+Es importante mencionar que, el hecho de que haya sido realizada como medio de graduación de curso, no es un proyecto ficticio, ya que forma parte importante de mi experiencia real como analista de datos en TKM Customer Solutions.
 
 Se parte de un set de datos real, sin embargo, este ha sido modificado con la finalidad de cuidar los principios de seguridad de información. El compartamiento de las llamadas, como la fecha, la hora, así como datos no sensibles no han sido alterados para mantener lo más real posile el análisis.
 
